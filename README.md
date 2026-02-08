@@ -32,6 +32,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyae198022&layout=compact&theme=dark)
 
----
+## 🛠 Languages and Tools:
+<img src="https://skillicons.dev/icons?i=java,react,html,css,js,spring,mysql,git,github" />
 
 ✨ *Always learning, always building.*
