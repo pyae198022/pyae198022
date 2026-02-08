@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**pyae198022/pyae198022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Pyae Sone
 
-Here are some ideas to get you started:
+🎓 Student at **University of Computer Studies, Yangon (UCSY)**  
+💻 Java & React Developer  
+🌱 Currently learning Full Stack Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 I’m working on Java & React projects  
+- 🌱 I’m learning Spring Boot and modern web technologies  
+- 📫 How to reach me: pyae198022@gmail.com
+
+---
+
+## 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/pyae-sone-397976345/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:pyae198022@gmail.com)
+
+---
+
+## 🛠 Languages and Tools:
+<p>
+<img src="https://skillicons.dev/icons?i=java,react,html,css,js,spring,mysql,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
