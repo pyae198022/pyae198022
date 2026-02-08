@@ -15,7 +15,7 @@
 ---
 
 ## 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/pyae-sone-397976345/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pyae-sone-397976345/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:pyae198022@gmail.com)
 
 ---
@@ -28,5 +28,5 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pyae198022&show_icons=true&theme=dark)
 
