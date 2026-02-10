@@ -1,7 +1,9 @@
 # Hi 👋, I'm Pyae Sone
 
 🎓 **Student at University of Computer Studies, Yangon (UCSY)**
+
 💻 **Java & React Developer**
+
 🚀 **Full Stack Web Development Enthusiast**
 
 ---
@@ -33,11 +35,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pyae198022@gmail.com)
 
 ---
-
-## 📊 Github Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=PyaeSone-dev&show_icons=true&theme=radical" alt="Pyae Sone's Github Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyaeSone-dev&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
 
 ✨ *Always learning, always building.*
