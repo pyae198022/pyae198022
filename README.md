@@ -1,6 +1,8 @@
 # Hi 👋, I'm Pyae Sone
 
-🎓 **Student at University of Computer Studies, Yangon (UCSY)** 💻 **Java & React Developer** 🚀 **Full Stack Web Development Enthusiast**
+🎓 **Student at University of Computer Studies, Yangon (UCSY)**
+💻 **Java & React Developer**
+🚀 **Full Stack Web Development Enthusiast**
 
 ---
 
