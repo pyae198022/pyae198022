@@ -24,7 +24,7 @@
 ## 🛠 Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,spring,mysql,js,html,css,git,github,vercel,vscode,vue,postgressql,jsp,jstl" />
+    <img src="https://skillicons.dev/icons?i=java,react,spring,mysql,js,html,css,git,github,vercel,vscode,vue,postgresql,tailwild" />
   </a>
 </p>
 
