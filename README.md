@@ -42,16 +42,6 @@ Passionate software engineering student at the **University of Computer Studies,
   </a>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **MMR_Booking** | Full-featured booking and reservation platform with streamlined scheduling and user management workflows. | React, TypeScript, Supabase, Tailwind CSS | [Repository](https://github.com/pyae198022/MMR_Booking) |
-| **CineFlix** | Movie review and dashboard system featuring advanced search and user rating workflows. | Spring Boot, Java, JSP, MySQL | [Repository](https://github.com/) |
-
----
 
 ### 📈 GitHub Activity & Profile
 
